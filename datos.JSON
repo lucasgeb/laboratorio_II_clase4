@@ -1,0 +1,83 @@
+[
+    {
+        
+        "id":1,
+        "equipo":"Boca Juniors",
+        "colores": "Azul y Amarillo",
+        "país" : "Argentina" 
+    },
+
+    {
+        "id":2,
+        "equipo":"Real Madrid",
+        "colores": "blanco",
+        "país" : "España"   
+
+    },
+    {
+        "id":3,
+        "equipo":"Barcelona",
+        "colores": "Azul y Rojo",
+        "país" : "España"   
+
+    },
+    {
+        "id":4,
+        "equipo":"Peñarol",
+        "colores": "Negro y Amarillo",
+        "país" : "Uruguay"  
+
+    },
+    {
+        "id":5,
+        "equipo":"River Plate",
+        "colores": "Blanco y Rojo",
+        "país" : "Argentina"  
+
+    },
+    {
+        "id":6,
+        "equipo":"Palmeiras",
+        "colores": "Verde",
+        "país" : "Brasil"  
+
+    },
+    {
+        "id":7,
+        "equipo":"Inter",
+        "colores": "Negro y Azul",
+        "país" : "Italia"  
+
+    },
+    {
+        "id":8,
+        "equipo":"PSG",
+        "colores": "Azul y Rojo",
+        "país" : "Francia"  
+
+    },
+    {
+        "id":9,
+        "equipo":"Independiente",
+        "colores": "Rojo",
+        "país" : "Argentina"  
+
+    },
+    {
+        "id":10,
+        "equipo":"Atlético Mineiro",
+        "colores": "Blanco y Negro",
+        "país" : "Brasil"  
+
+    },
+    {
+        "id":11,
+        "equipo":"Ajax",
+        "colores": "Blanco y Rojo",
+        "país" : "Holanda"  
+
+    }
+
+
+
+]
